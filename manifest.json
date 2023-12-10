@@ -16,8 +16,8 @@
   ],
   "applications": {
     "gecko": {
-      "id": "your-extension@example.com",
-      "update_url": "https://isahooman.github.io/Yt-music-tweaks/update.json"
+      "id": "fy8d7uxve@mozmail.com",
+      "update_url": "https://isahooman.github.io/YT-music-tweaks/update.json"
     }
   }
 }
