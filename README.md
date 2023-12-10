@@ -13,7 +13,7 @@ You can install YT Music Tweaks directly from the Firefox Add-ons Store. If it's
 
 ### Manual Installation
 To manually install YT Music Tweaks:
-1. Download the latest `.xpi` file from the [releases page](https://isahooman.github.io/YT-music-tweaks/).
+1. Download the latest `.xpi` file from the [here](blob:https://github.com/54c6ac39-e56d-45c5-a7b5-266e028777aa) .
 2. Open Firefox and navigate to `about:addons`.
 3. Drag and drop the `.xpi` into the extensions page.
 4. Confirm the installation in the popup.
