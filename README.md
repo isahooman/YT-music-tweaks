@@ -10,7 +10,7 @@ YT Music Tweaks is a Firefox extension designed to enhance your YouTube Music ex
 
 ### Manual Installation
 To manually install YT Music Tweaks:
-1. Download the latest `.xpi` file from the repo.
+1. Download the `latest.xpi` file from the repo.
 2. Open Firefox and navigate to `about:addons`.
-3. Drag and drop the `.xpi` into the extensions page.
+3. Drag and drop the `latest.xpi` into the extensions page.
 4. Confirm the installation in the popup.
